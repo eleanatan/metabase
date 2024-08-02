@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [36.8219, -1.2921], [36.8220, -1.2921], [36.8220, -1.2922], [36.8219, -1.2922], [36.8219, -1.2921]
+            ]
+          ]
+        },
+        "properties": {
+          "name": "Nairobi",
+          "id": "001"
+        }
+      }
+    ]
+  }
+  
